@@ -1,2 +1,3 @@
 #Repo'nun ilk dosyası
 print("new file")
+#local'ime klonladığım repo'mda değişikler yapıyorum.
