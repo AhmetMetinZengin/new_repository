@@ -1,1 +1,2 @@
 #Repo'nun ilk dosyası
+print("new file")
